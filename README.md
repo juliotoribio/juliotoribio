@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Desarrollador
-
 ### Sobre mí
 Soy un desarrollador con experiencia en Python, CSS, HTML, y JavaScript. Me encanta crear soluciones eficientes y elegantes para problemas complejos y siempre estoy buscando aprender y mejorar mis habilidades.
 
