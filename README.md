@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Julio Toribio
-
 ## Desarrollador
 
 ### Sobre mí
