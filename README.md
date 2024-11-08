@@ -1,5 +1,27 @@
 ## Hi there 👋
 
+# Julio Toribio
+
+## Desarrollador
+
+### Sobre mí
+Soy un desarrollador con experiencia en Python, CSS, HTML, y JavaScript. Me encanta crear soluciones eficientes y elegantes para problemas complejos y siempre estoy buscando aprender y mejorar mis habilidades.
+
+### Habilidades
+- **Lenguajes de Programación**: Python, JavaScript, HTML, CSS
+- **Frameworks y Librerías**: Django, Flask, React, Bootstrap
+- **Herramientas y Plataformas**: Git, Docker, AWS, Heroku
+- **Bases de Datos**: MySQL, PostgreSQL, SQLite
+
+### Contacto
+- **Correo Electrónico**: julio.toribio@example.com
+- **LinkedIn**: linkedin.com/in/juliotoribio
+- **GitHub**: github.com/juliotoribio
+
+¡Gracias por visitar mi perfil!
+
+
+
 <!--
 **juliotoribio/juliotoribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
