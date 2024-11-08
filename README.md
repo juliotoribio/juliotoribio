@@ -12,7 +12,7 @@ Soy un desarrollador con experiencia en Python, CSS, HTML, y JavaScript. Me enca
 - **Bases de Datos**: MySQL, PostgreSQL, SQLite
 
 ### Contacto
-- **Correo Electrónico**: julio.toribio@example.com
+- **Correo Electrónico**: hola@juliotoribio.com
 - **LinkedIn**: linkedin.com/in/juliotoribio
 - **GitHub**: github.com/juliotoribio
 
